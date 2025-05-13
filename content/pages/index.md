@@ -353,7 +353,7 @@ sections:
     items:
       - type: FeaturedItem
         title: In-House Manufacturing & Branding
-        subtitle: Sales
+        subtitle: ''
         text: >
           We manage production internally to ensure strict quality control,
           faster lead times, and seamless customization across apparel, gifts,
