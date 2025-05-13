@@ -431,10 +431,10 @@ sections:
       - type: FeaturedItem
         title: Fast Turnaround & High-Volume Capacity
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Whether you need a large corporate rollout or a last-minute event
+          order, our team is equipped to deliver quickly without compromising on
+          quality.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
