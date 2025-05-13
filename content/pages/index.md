@@ -394,10 +394,10 @@ sections:
       - type: FeaturedItem
         title: Tailor-Made Product Development
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From concept to final product, we create fully custom solutions
+          designed to align with your brand’s look, feel, and market
+          positioning.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
