@@ -158,6 +158,7 @@ sections:
       subtitle:
         textAlign: center
     subtitle: ''
+    elementId: aboutUs
   - type: FeaturedItemsSection
     title:
       text: Product Offering
