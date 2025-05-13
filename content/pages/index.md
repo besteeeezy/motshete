@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: Subtitle goes here
+    subtitle: >-
+      From custom apparel to promotional gifts, Motshete Trading Enterprise
+      helps you make a lasting impression — locally and globally.
     text: ''
     actions:
       - label: Contact Us
