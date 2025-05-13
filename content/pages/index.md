@@ -38,6 +38,9 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: small
     badge:
       label: MOTSHETE TRADING ENTERPRISE
       color: text-primary
