@@ -280,10 +280,10 @@ sections:
         title: Our Mission
         tagline: Our Mission
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          To add value to our clients’ brands by offering expert printing and
+          manufacturing solutions — while providing trusted advisory support to
+          maximize branding impact through high-quality, customized products.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
