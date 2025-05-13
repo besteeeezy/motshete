@@ -344,7 +344,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Service Offering
       color: text-dark
       styles:
         self:
