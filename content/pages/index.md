@@ -393,7 +393,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Tailor-Made Product Development
-        subtitle: Marketing
+        subtitle: ''
         text: >
           From concept to final product, we create fully custom solutions
           designed to align with your brand’s look, feel, and market
