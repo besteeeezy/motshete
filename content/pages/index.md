@@ -414,10 +414,9 @@ sections:
       - type: FeaturedItem
         title: Full-Service Support
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We handle every stage — from graphic design and product sourcing to
+          printing, packing, and delivery — so you can focus on your business.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
