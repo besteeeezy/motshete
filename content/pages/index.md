@@ -40,7 +40,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: small
+          borderRadius: large
     badge:
       label: MOTSHETE TRADING ENTERPRISE
       color: text-primary
