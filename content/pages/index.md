@@ -277,35 +277,6 @@ sections:
             justifyContent: center
             borderColor: border-light
       - type: FeaturedItem
-        title: Our Mission
-        tagline: Our Mission
-        subtitle: Be in good company
-        text: >
-          To add value to our clients’ brands by offering expert printing and
-          manufacturing solutions — while providing trusted advisory support to
-          maximize branding impact through high-quality, customized products.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Our Vision
         tagline: Our Vision
         subtitle: Be in good company
@@ -323,6 +294,35 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Our Mission
+        tagline: Our Mission
+        subtitle: Be in good company
+        text: >
+          To add value to our clients’ brands by offering expert printing and
+          manufacturing solutions — while providing trusted advisory support to
+          maximize branding impact through high-quality, customized products.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
