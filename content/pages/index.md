@@ -352,7 +352,7 @@ sections:
     subtitle: What Sets Us Apart
     items:
       - type: FeaturedItem
-        title: In-House Manufacturing & Branding Capabilities
+        title: In-House Manufacturing & Branding
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
