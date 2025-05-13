@@ -157,6 +157,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: About Mosthete
   - type: FeaturedItemsSection
     title:
       text: Product Offering
