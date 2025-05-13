@@ -245,7 +245,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: High-Quality Printing Services
         tagline: Who We Are
         subtitle: Be in good company
         text: >-
