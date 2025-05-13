@@ -275,7 +275,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Our Mission
-        tagline: Feature 2
+        tagline: Our Mission
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
