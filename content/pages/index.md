@@ -159,7 +159,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Product Offering
       color: text-dark
       styles:
         self:
