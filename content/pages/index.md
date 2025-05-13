@@ -161,7 +161,7 @@ sections:
     elementId: aboutUs
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: About Us
       color: text-dark
   - type: FeaturedItemsSection
     title:
