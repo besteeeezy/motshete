@@ -430,7 +430,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Fast Turnaround & High-Volume Capacity
-        subtitle: Sales
+        subtitle: ''
         text: >
           Whether you need a large corporate rollout or a last-minute event
           order, our team is equipped to deliver quickly without compromising on
