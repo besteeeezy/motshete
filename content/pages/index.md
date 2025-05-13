@@ -354,10 +354,10 @@ sections:
       - type: FeaturedItem
         title: In-House Manufacturing & Branding
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We manage production internally to ensure strict quality control,
+          faster lead times, and seamless customization across apparel, gifts,
+          and promotional items.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
