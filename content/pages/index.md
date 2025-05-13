@@ -373,7 +373,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: State-of-the-Art Equipment
-        subtitle: Sales
+        subtitle: ''
         text: >
           Our advanced machinery includes high-speed screen printing, precision
           embroidery machines, and efficient pad printing systems — delivering
