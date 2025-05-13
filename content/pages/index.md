@@ -273,6 +273,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: Our Mission
         tagline: Our Mission
