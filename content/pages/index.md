@@ -58,6 +58,105 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 400
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: High-Quality Printing Services
+        tagline: Who We Are
+        subtitle: Be in good company
+        text: >
+          We specialize in high-quality textile printing, embroidery, pad
+          printing, and product manufacturing. Based in South Africa and serving
+          clients across the region and globally, we are passionate about
+          helping businesses and individuals make a lasting impression through
+          expertly branded products.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderColor: border-light
+      - type: FeaturedItem
+        title: Our Vision
+        tagline: Our Vision
+        subtitle: Be in good company
+        text: >
+          To be the market leader in textile printing, manufacturing,
+          embroidery, and pad printing services, proudly serving both the South
+          African and global markets.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Our Mission
+        tagline: Our Mission
+        subtitle: Be in good company
+        text: >
+          To add value to our clients’ brands by offering expert printing and
+          manufacturing solutions — while providing trusted advisory support to
+          maximize branding impact through high-quality, customized products.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -326,105 +425,6 @@ sections:
           - pt-16
           - pl-3
           - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: High-Quality Printing Services
-        tagline: Who We Are
-        subtitle: Be in good company
-        text: >
-          We specialize in high-quality textile printing, embroidery, pad
-          printing, and product manufacturing. Based in South Africa and serving
-          clients across the region and globally, we are passionate about
-          helping businesses and individuals make a lasting impression through
-          expertly branded products.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-light
-      - type: FeaturedItem
-        title: Our Vision
-        tagline: Our Vision
-        subtitle: Be in good company
-        text: >
-          To be the market leader in textile printing, manufacturing,
-          embroidery, and pad printing services, proudly serving both the South
-          African and global markets.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Our Mission
-        tagline: Our Mission
-        subtitle: Be in good company
-        text: >
-          To add value to our clients’ brands by offering expert printing and
-          manufacturing solutions — while providing trusted advisory support to
-          maximize branding impact through high-quality, customized products.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
         justifyContent: center
       subtitle:
         textAlign: center
