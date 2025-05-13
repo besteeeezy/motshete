@@ -159,6 +159,10 @@ sections:
         textAlign: center
     subtitle: ''
     elementId: aboutUs
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       text: Product Offering
