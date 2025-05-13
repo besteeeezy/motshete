@@ -163,6 +163,9 @@ sections:
       type: TitleBlock
       text: About Us
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Product Offering
