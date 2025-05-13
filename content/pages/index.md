@@ -374,10 +374,10 @@ sections:
       - type: FeaturedItem
         title: State-of-the-Art Equipment
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our advanced machinery includes high-speed screen printing, precision
+          embroidery machines, and efficient pad printing systems — delivering
+          sharp, durable branding at scale.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
