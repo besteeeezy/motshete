@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: MOTSHETE TRADING ENTERPRISE
       color: text-primary
       type: Badge
     elementId: ''
