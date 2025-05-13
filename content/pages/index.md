@@ -349,7 +349,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: What Sets Us Apart
     items:
       - type: FeaturedItem
         title: Account Executive
