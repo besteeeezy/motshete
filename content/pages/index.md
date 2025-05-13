@@ -12,7 +12,7 @@ sections:
           fontWeight: 400
     subtitle: >-
       From custom apparel to promotional gifts, Motshete Trading Enterprise
-      helps you make a lasting impression — locally and globally.
+      helps you make a lasting impression.
     text: ''
     actions:
       - label: Contact Us
