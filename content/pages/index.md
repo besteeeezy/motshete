@@ -413,7 +413,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Full-Service Support
-        subtitle: Engineering
+        subtitle: ''
         text: >
           We handle every stage — from graphic design and product sourcing to
           printing, packing, and delivery — so you can focus on your business.
