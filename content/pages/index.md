@@ -280,10 +280,10 @@ sections:
         title: Our Vision
         tagline: Our Vision
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          To be the market leader in textile printing, manufacturing,
+          embroidery, and pad printing services, proudly serving both the South
+          African and global markets.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
