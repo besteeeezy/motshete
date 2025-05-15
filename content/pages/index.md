@@ -511,7 +511,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-40
+          - pb-5
           - pt-5
           - pl-3
           - pr-3
