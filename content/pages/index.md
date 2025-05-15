@@ -263,7 +263,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Bespoke Products
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
