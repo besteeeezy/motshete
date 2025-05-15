@@ -572,7 +572,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Pad Printing
-        tagline: This is the tagline
+        tagline: 1 000 Units Per Hour
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
