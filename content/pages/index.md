@@ -166,6 +166,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-1
       subtitle:
         textAlign: center
     subtitle: ''
