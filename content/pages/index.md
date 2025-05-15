@@ -194,8 +194,10 @@ sections:
         title: Clothing
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We design and print custom apparel for corporate teams, events, and
+          personal branding. Choose from t-shirts, polos, hoodies, and more —
+          all tailored to reflect your brand with precision and style.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
