@@ -239,7 +239,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Custom Gifts
+        title: Workwear
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
