@@ -296,8 +296,10 @@ sections:
         title: Display Solutions
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Stand out at events, trade shows, or in-store environments with our
+          vibrant custom displays. We supply branded banners, pull-ups, stands,
+          and visual merchandising tools.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
