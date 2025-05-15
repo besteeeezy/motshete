@@ -133,7 +133,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Our Vision
+        title: Our Mission
         tagline: Our Mission
         subtitle: ''
         text: >
