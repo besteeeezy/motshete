@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         title: Our Vision
         tagline: Our Vision
-        subtitle: Be in good company
+        subtitle: ''
         text: >
           To be the market leader in textile printing, manufacturing,
           embroidery, and pad printing services, proudly serving both the South
