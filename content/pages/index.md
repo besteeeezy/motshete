@@ -641,7 +641,7 @@ sections:
       text: Need a Quote or Have a Question?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Fill out the below or email us directly — we’ll respond within one
       business day.
