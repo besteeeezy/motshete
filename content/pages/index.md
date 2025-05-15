@@ -191,7 +191,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Workwear
+        title: Clothing
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
