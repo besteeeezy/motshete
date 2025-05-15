@@ -596,7 +596,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Manual Printing - Hand Carousels
-        tagline: This is the tagline
+        tagline: Manual Printing
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
