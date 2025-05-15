@@ -324,8 +324,10 @@ sections:
         title: Bespoke Products
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Looking for something unique? We specialize in crafting one-of-a-kind
+          promotional products developed specifically for your brand’s goals and
+          target audience.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
