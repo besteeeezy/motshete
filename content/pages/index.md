@@ -548,7 +548,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Embroidery
-        tagline: This is the tagline
+        tagline: 1 200 Stitches Per Minute
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
