@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         tagline: Our Mission
-        subtitle: Be in good company
+        subtitle: ''
         text: >
           To add value to our clients’ brands by offering expert printing and
           manufacturing solutions — while providing trusted advisory support to
