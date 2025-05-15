@@ -246,8 +246,10 @@ sections:
         title: Workwear
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Keep your workforce looking sharp and professional with our durable,
+          branded uniforms, safety gear, jackets, and reflective wear — built
+          for both function and brand impact.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
