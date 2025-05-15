@@ -493,7 +493,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Branding Capabilities
       color: text-dark
       styles:
         self:
