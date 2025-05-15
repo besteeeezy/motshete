@@ -272,8 +272,10 @@ sections:
         title: Custom Gifts
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Leave a lasting impression with custom-branded gift items. Ideal for
+          giveaways, client appreciation, and corporate events — from mugs and
+          pens to tech accessories and drinkware.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
