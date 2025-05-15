@@ -549,7 +549,7 @@ sections:
       - type: FeaturedItem
         title: Embroidery
         tagline: 1 200 Stitches Per Minute
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
