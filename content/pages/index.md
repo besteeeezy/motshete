@@ -595,7 +595,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Manual Printing - Hand Carousels
+        title: Hand Carousels
         tagline: Manual Printing
         subtitle: This is the item subtitle
         text: |
