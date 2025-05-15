@@ -215,7 +215,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Display Solutions
+        title: Headwear
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
