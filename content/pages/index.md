@@ -643,7 +643,7 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: >
-      Fill out the form below or email us directly — we’ll respond within one
+      Fill out the below or email us directly — we’ll respond within one
       business day.
     media:
       fields:
