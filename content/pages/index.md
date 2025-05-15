@@ -263,7 +263,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Bespoke Products
+        title: Custom Gifts
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
