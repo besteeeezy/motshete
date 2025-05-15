@@ -384,7 +384,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: What Sets Us Apart
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: In-House Manufacturing & Branding
