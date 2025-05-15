@@ -526,8 +526,9 @@ sections:
         title: Screen Printing
         tagline: Synchro Print S-Type Machines
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our automated screen printing machines offer production speeds of up
+          to 1,200 t-shirts per hour.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
