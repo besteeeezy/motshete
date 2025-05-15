@@ -551,8 +551,9 @@ sections:
         title: Embroidery
         tagline: 1 200 Stitches Per Minute
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Our embroidery machines feature cap, tubular, and flat settings —
+          allowing us to handle complex branding across a variety of textiles. 
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
