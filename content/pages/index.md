@@ -524,7 +524,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Screen Printing
-        tagline: This is the tagline
+        tagline: Synchro Print S-Type Machines
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
