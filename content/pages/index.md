@@ -573,7 +573,7 @@ sections:
       - type: FeaturedItem
         title: Pad Printing
         tagline: 1 000 Units Per Hour
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
