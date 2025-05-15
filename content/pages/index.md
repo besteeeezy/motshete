@@ -576,8 +576,10 @@ sections:
         title: Pad Printing
         tagline: 1 000 Units Per Hour
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Ideal for corporate gifts and promotional merchandise, our pad
+          printing equipment can quickly brand items like pens, mugs, rulers,
+          and water bottles with high precision and clarity.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
