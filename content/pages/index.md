@@ -602,8 +602,10 @@ sections:
         title: Hand Carousels
         tagline: Manual Printing
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our hand carousels allow for detailed manual printing across a variety
+          of materials — including textiles, bags, lanyards, umbrellas, and
+          paper bags — perfect for smaller runs and specialty prints.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
