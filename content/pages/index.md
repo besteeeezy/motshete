@@ -220,8 +220,10 @@ sections:
         title: Headwear
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Elevate your brand visibility with our wide selection of custom
+          headwear. From caps and beanies to visors and bucket hats, we offer
+          high-quality branding on all headwear types.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
