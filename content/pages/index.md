@@ -74,7 +74,7 @@ sections:
       - type: FeaturedItem
         title: High-Quality Printing Services
         tagline: Who We Are
-        subtitle: Be in good company
+        subtitle: ''
         text: >
           We specialize in high-quality textile printing, embroidery, pad
           printing, and product manufacturing. Based in South Africa and serving
