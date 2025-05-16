@@ -456,7 +456,7 @@ sections:
           designed to align with your brand’s look, feel, and market
           positioning.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
