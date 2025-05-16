@@ -396,7 +396,7 @@ sections:
           faster lead times, and seamless customization across apparel, gifts,
           and promotional items.
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
