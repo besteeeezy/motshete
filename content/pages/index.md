@@ -436,7 +436,7 @@ sections:
           embroidery machines, and efficient pad printing systems — delivering
           sharp, durable branding at scale.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
