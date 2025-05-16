@@ -699,7 +699,7 @@ sections:
         self:
           padding:
             - pt-6
-            - pb-6
+            - pb-5
             - pl-6
             - pr-6
           borderColor: border-dark
