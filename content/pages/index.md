@@ -532,7 +532,7 @@ sections:
     title:
       type: TitleBlock
       text: Technology and Capabilities
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
