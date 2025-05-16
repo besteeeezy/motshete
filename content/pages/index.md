@@ -493,7 +493,7 @@ sections:
           order, our team is equipped to deliver quickly without compromising on
           quality.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
