@@ -475,7 +475,7 @@ sections:
           We handle every stage — from graphic design and product sourcing to
           printing, packing, and delivery — so you can focus on your business.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
