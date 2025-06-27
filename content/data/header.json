@@ -1,25 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Motshete - Favicon.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
+            "label": "About Us",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,13 +22,14 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Products",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/products",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Dropdown",
@@ -89,6 +84,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Header"
 }

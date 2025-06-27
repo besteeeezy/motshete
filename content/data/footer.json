@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Motshete - Favicon.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "**Address:** 67 Street, Wynberg, South Africa\n\n**Mail:** admin\\@motshete.com\n\n**Phone:** +27 11 444 0204\n\n**Fax:** +27 11 444 0208\n\n**Website:** [www.motshete.com](http://www.motshete.com)\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Motshete Trading Enterprise",
         "links": [
             {
                 "label": "Features",
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
