@@ -194,7 +194,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Product Offering
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
